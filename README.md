@@ -1,6 +1,6 @@
 # FluxTuner - System Optimization Utility
 
-FluxTuner is a batch script utility designed to help you quickly optimize your Windows system. With FluxTuner, you can clean temporary files, perform system optimization tasks, and run disk cleanup with a simple and user-friendly interface.
+FluxTuner is a batch script utility designed to help you quickly optimize your Windows system and giving you can fps boost. With FluxTuner, you can clean temporary files, perform system optimization tasks, and run disk cleanup with a simple and user-friendly interface.
 
 ## Features
 
